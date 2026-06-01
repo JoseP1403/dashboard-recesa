@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>RECESA — Dashboard de Vendedores</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500;600&family=Barlow+Condensed:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header class="topbar">
+    <div class="brand">
+      <div class="brand-icon">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+          <polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/>
+        </svg>
+      </div>
+      <div>
+        <div class="brand-name">Recesa</div>
+        <div class="brand-sub">Resortes Centroamericanos, S.A. — Vendedores</div>
+      </div>
+    </div>
+    <div class="period">
+      <span id="kpi-period">—</span>
+    </div>
+  </header>
+
+  <main class="main">
+
+    <section class="kpis" aria-label="Métricas principales">
+      <div class="kpi">
+        <div class="kpi-label">Ventas totales</div>
+        <div class="kpi-value" id="kpi-total">—</div>
+        <div class="kpi-sub">Acumulado</div>
+      </div>
+      <div class="kpi">
+        <div class="kpi-label">Unidades</div>
+        <div class="kpi-value" id="kpi-units">—</div>
+        <div class="kpi-sub">Piezas vendidas</div>
+      </div>
+      <div class="kpi">
+        <div class="kpi-label">Mejor mes</div>
+        <div class="kpi-value" id="kpi-best">—</div>
+        <div class="kpi-sub" id="kpi-best-sub">—</div>
+      </div>
+      <div class="kpi">
+        <div class="kpi-label">Precio promedio</div>
+        <div class="kpi-value" id="kpi-price">—</div>
+        <div class="kpi-sub">Por unidad</div>
+      </div>
+    </section>
+
+    <section class="vendor-cards" id="vendorCards" aria-label="Comparativo por vendedor"></section>
+
+    <div class="row2">
+      <div class="card">
+        <div class="card-title">Ventas mensuales por vendedor</div>
+        <div class="legend" id="legend-bar"></div>
+        <div class="chart-wrap" style="height:190px;">
+          <canvas id="barChart" role="img" aria-label="Barras apiladas de ventas mensuales por vendedor">Ventas mensuales comparadas por vendedor.</canvas>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-title">Tendencia mensual</div>
+        <div class="legend" id="legend-line"></div>
+        <div class="chart-wrap" style="height:190px;">
+          <canvas id="lineChart" role="img" aria-label="Líneas de tendencia de ventas por vendedor">Tendencia de ventas por vendedor.</canvas>
+        </div>
+      </div>
+    </div>
+
+    <div class="row2">
+      <div class="card">
+        <div class="card-title">Categorías — Allan</div>
+        <div class="card-sub">Distribución por tipo de producto</div>
+        <div id="catAllan"></div>
+      </div>
+      <div class="card">
+        <div class="card-title">Categorías — Fabiola</div>
+        <div class="card-sub">Distribución por tipo de producto</div>
+        <div id="catFabiola"></div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-title">Top 8 productos por ventas totales</div>
+      <div class="card-sub">Acumulado del período</div>
+      <div id="topProds"></div>
+    </div>
+
+  </main>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
