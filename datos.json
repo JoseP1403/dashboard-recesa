@@ -45,7 +45,7 @@
     391306.45,
     313013.21,
     357655.06,
-    14038.2
+    247634.55
   ],
   "units": [
     182456,
@@ -61,7 +61,7 @@
     34417,
     35632,
     22633,
-    1161
+    34907
   ],
   "vendedores": [
     "Allan",
@@ -82,7 +82,7 @@
       226582.37,
       202919.21,
       207562.18,
-      0.0
+      90469.1
     ],
     "Fabiola": [
       955469.19,
@@ -98,56 +98,56 @@
       164724.08,
       110094.0,
       150092.88,
-      14038.2
+      157165.45
     ]
   },
   "vendedorSummary": {
     "Allan": {
-      "total": 2374813.9,
-      "units": 28946,
-      "pct": 43.6,
+      "total": 2465283.0,
+      "units": 31218,
+      "pct": 43.4,
       "topCategory": "HOJAS",
-      "avgPrice": 259.99
+      "avgPrice": 261.73
     },
     "Fabiola": {
-      "total": 3071117.34,
-      "units": 853812,
-      "pct": 56.4,
+      "total": 3214244.59,
+      "units": 885286,
+      "pct": 56.6,
       "topCategory": "TORNILLO CENTRO",
-      "avgPrice": 25.36
+      "avgPrice": 25.92
     }
   },
   "vendedorCategories": {
     "Allan": [
       {
         "name": "HOJAS",
-        "total": 1370399.3,
-        "units": 3958
+        "total": 1418527.46,
+        "units": 4086
       },
       {
         "name": "TORNILLO CENTRO",
-        "total": 396708.17,
-        "units": 21684
+        "total": 412533.27,
+        "units": 23452
       },
       {
         "name": "RESORTAJE",
-        "total": 310141.51,
-        "units": 164
+        "total": 322594.35,
+        "units": 169
       },
       {
         "name": "LAÑA",
-        "total": 212624.95,
-        "units": 2493
+        "total": 214793.67,
+        "units": 2503
       },
       {
         "name": "PERNO ESTRUCTURAL",
-        "total": 42717.92,
-        "units": 357
+        "total": 52699.92,
+        "units": 695
       },
       {
         "name": "PERNO",
-        "total": 41614.89,
-        "units": 288
+        "total": 43527.17,
+        "units": 312
       },
       {
         "name": "BALANCIN",
@@ -158,13 +158,13 @@
     "Fabiola": [
       {
         "name": "TORNILLO CENTRO",
-        "total": 1505538.3,
-        "units": 707494
+        "total": 1554387.55,
+        "units": 736378
       },
       {
         "name": "PERNO ESTRUCTURAL",
-        "total": 1206737.78,
-        "units": 22316
+        "total": 1299824.66,
+        "units": 24898
       },
       {
         "name": "TORNILLERIA Y FERRETERIA",
@@ -173,8 +173,8 @@
       },
       {
         "name": "LAÑA",
-        "total": 22153.48,
-        "units": 202
+        "total": 23344.6,
+        "units": 210
       },
       {
         "name": "HOJAS",
@@ -188,15 +188,15 @@
       }
     ]
   },
-  "grandTotal": 5445931.24,
-  "grandUnits": 882758,
-  "avgPrice": 6.17,
+  "grandTotal": 5679527.59,
+  "grandUnits": 916504,
+  "avgPrice": 6.2,
   "topCategory": "TORNILLO CENTRO",
-  "topCategoryUnits": 729178,
+  "topCategoryUnits": 759830,
   "products": [
     {
       "name": "PERNO S/MUESTRA",
-      "val": 1234813.28
+      "val": 1337882.16
     },
     {
       "name": "TOR. HEX. A325 3/4 X 2.1/2",
@@ -204,7 +204,7 @@
     },
     {
       "name": "TUERCA HEX. A325 3/4",
-      "val": 171696.3
+      "val": 172564.78
     },
     {
       "name": "RESORTE C. TOYOTA HILUX REVO 3H + 2 AUX (1 RB-660 + 2 SP-1601)",
@@ -220,11 +220,11 @@
     },
     {
       "name": "TUERCA HEX. A325 7/8",
-      "val": 65138.75
+      "val": 65642.75
     },
     {
       "name": "TOYOTA HILUX 90 4WD TRA 1a C/J",
-      "val": 57733.16
+      "val": 60199.54
     }
   ],
   "details": [
@@ -412,17 +412,17 @@
     },
     {
       "month": "Junio 2026",
-      "total": 14038.2,
-      "units": 1161,
-      "daily": 467.94,
+      "total": 247634.55,
+      "units": 34907,
+      "daily": 8254.48,
       "byVendor": {
-        "Allan": 0.0,
-        "Fabiola": 14038.2
+        "Allan": 90469.1,
+        "Fabiola": 157165.45
       },
       "topValueProduct": "PERNO S/MUESTRA",
-      "topValueTotal": 9490.24,
-      "topUnitsProduct": "ROLDANA F436 7/8\"",
-      "topUnitsQty": 280
+      "topValueTotal": 112559.12,
+      "topUnitsProduct": "TUERCA HEX. A325 5/8",
+      "topUnitsQty": 8203
     }
   ],
   "bestMonth": "Mayo 2025",
