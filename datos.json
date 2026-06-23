@@ -32,36 +32,36 @@
     "Junio 2026"
   ],
   "totals": [
-    135346.65,
-    185746.45,
-    175718.68,
-    219594.46,
-    154782.5,
-    208960.9,
-    124759.39,
-    141900.55,
-    209513.68,
-    190779.19,
-    226582.37,
-    202919.21,
-    209673.77,
-    130027.13
+    1090269.23,
+    291359.67,
+    767711.35,
+    300299.4,
+    383281.32,
+    303203.25,
+    225075.2,
+    329136.48,
+    348112.35,
+    331470.07,
+    391306.45,
+    313013.21,
+    357655.06,
+    318392.62
   ],
   "units": [
-    1072,
-    2987,
-    1899,
-    1486,
-    1384,
-    4549,
-    2644,
-    2968,
-    1834,
-    1768,
-    3480,
-    1356,
-    1610,
-    2511
+    182456,
+    20211,
+    240029,
+    32420,
+    39235,
+    48242,
+    33545,
+    25586,
+    37935,
+    129256,
+    34417,
+    35632,
+    22633,
+    38813
   ],
   "vendedores": [
     "Allan",
@@ -85,36 +85,36 @@
       130027.13
     ],
     "Fabiola": [
-      546.61,
-      3238.89,
-      0.0,
-      0.0,
-      619.1,
-      0.0,
-      0.0,
-      1491.71,
-      3456.0,
-      0.0,
-      0.0,
-      0.0,
-      2111.59,
-      0.0
+      955469.19,
+      108852.11,
+      591992.67,
+      80704.94,
+      229117.92,
+      94242.35,
+      100315.81,
+      188727.64,
+      142054.67,
+      140690.88,
+      164724.08,
+      110094.0,
+      150092.88,
+      188365.49
     ]
   },
   "vendedorSummary": {
     "Allan": {
       "total": 2504841.03,
       "units": 31458,
-      "pct": 99.5,
+      "pct": 43.6,
       "topCategory": "HOJAS",
       "avgPrice": 263.7
     },
     "Fabiola": {
-      "total": 11463.9,
-      "units": 91,
-      "pct": 0.5,
-      "topCategory": "HOJAS",
-      "avgPrice": 434.46
+      "total": 3245444.63,
+      "units": 888953,
+      "pct": 56.4,
+      "topCategory": "TORNILLO CENTRO",
+      "avgPrice": 25.9
     }
   },
   "vendedorCategories": {
@@ -157,250 +157,275 @@
     ],
     "Fabiola": [
       {
+        "name": "TORNILLO CENTRO",
+        "total": 1557661.15,
+        "units": 739020
+      },
+      {
+        "name": "PERNO ESTRUCTURAL",
+        "total": 1327751.1,
+        "units": 25923
+      },
+      {
+        "name": "TORNILLERIA Y FERRETERIA",
+        "total": 316418.93,
+        "units": 122911
+      },
+      {
+        "name": "LAÑA",
+        "total": 23344.6,
+        "units": 210
+      },
+      {
         "name": "HOJAS",
         "total": 11463.9,
         "units": 91
+      },
+      {
+        "name": "PERNO",
+        "total": 8804.95,
+        "units": 798
       }
     ]
   },
-  "grandTotal": 2516304.93,
-  "grandUnits": 31548,
-  "avgPrice": 79.76,
+  "grandTotal": 5750285.66,
+  "grandUnits": 920410,
+  "avgPrice": 6.25,
   "topCategory": "TORNILLO CENTRO",
-  "topCategoryUnits": 23642,
+  "topCategoryUnits": 762662,
   "products": [
+    {
+      "name": "PERNO S/MUESTRA",
+      "val": 1365808.6
+    },
+    {
+      "name": "TOR. HEX. A325 3/4 X 2.1/2",
+      "val": 425953.2
+    },
+    {
+      "name": "TUERCA HEX. A325 3/4",
+      "val": 172875.58
+    },
     {
       "name": "RESORTE C. TOYOTA HILUX REVO 3H + 2 AUX (1 RB-660 + 2 SP-1601)",
       "val": 160894.64
     },
     {
+      "name": "ELECTRODO 7018 1/8  (X LIBRA)",
+      "val": 95294.0
+    },
+    {
+      "name": "ELECTRODO 6013 3/32\" (LIBRA)",
+      "val": 73356.8
+    },
+    {
+      "name": "TUERCA HEX. A325 7/8",
+      "val": 65642.75
+    },
+    {
       "name": "TOYOTA HILUX 90 4WD TRA 1a C/J",
       "val": 61216.6
-    },
-    {
-      "name": "TOYOTA HILUX 90 4WD TRA 2a C/J",
-      "val": 55387.09
-    },
-    {
-      "name": "TOYOTA HILUX TRA 2a",
-      "val": 44078.56
-    },
-    {
-      "name": "NEWAY TS-5600 2a 30 5X30 5 5X1 C/CHICHE",
-      "val": 42600.0
-    },
-    {
-      "name": "TOYOTA HILUX REVO TRA. 2a. 2 1/4 X 3/8 C/J",
-      "val": 40510.16
-    },
-    {
-      "name": "PERNO S/MUESTRA",
-      "val": 38573.38
-    },
-    {
-      "name": "TOYOTA HILUX AUXILIAR 5/8 CON ABRAZADERA",
-      "val": 36948.29
     }
   ],
   "details": [
     {
       "month": "Mayo 2025",
-      "total": 135346.65,
-      "units": 1072,
-      "daily": 4366.02,
+      "total": 1090269.23,
+      "units": 182456,
+      "daily": 35169.98,
       "byVendor": {
         "Allan": 134800.04,
-        "Fabiola": 546.61
+        "Fabiola": 955469.19
       },
-      "topValueProduct": "CARGADOR P/SUSPENSION HENDRICKSON (ACORDEON GRANDE )",
-      "topValueTotal": 9240.0,
-      "topUnitsProduct": "TORNILLO CENTRO 3/8 X 4",
-      "topUnitsQty": 172
+      "topValueProduct": "TOR. HEX. A325 3/4 X 2.1/2",
+      "topValueTotal": 399850.0,
+      "topUnitsProduct": "TUERCA HEX. A325 3/4",
+      "topUnitsQty": 36382
     },
     {
       "month": "Junio 2025",
-      "total": 185746.45,
-      "units": 2987,
-      "daily": 6191.55,
+      "total": 291359.67,
+      "units": 20211,
+      "daily": 9711.99,
       "byVendor": {
         "Allan": 182507.56,
-        "Fabiola": 3238.89
+        "Fabiola": 108852.11
       },
-      "topValueProduct": "NEWAY TS-5600 1a 31X31 5X1 AGUJERO EN PUNTAS",
-      "topValueTotal": 15000.0,
-      "topUnitsProduct": "BUSHING PLASTICO HU-963 (18046) AMBAR HILUX-ISUZU",
-      "topUnitsQty": 662
+      "topValueProduct": "PERNO S/MUESTRA",
+      "topValueTotal": 55535.36,
+      "topUnitsProduct": "TORNILLO LAMINA ACERO INOX 8 X 1/2",
+      "topUnitsQty": 5000
     },
     {
       "month": "Julio 2025",
-      "total": 175718.68,
-      "units": 1899,
-      "daily": 5668.34,
+      "total": 767711.35,
+      "units": 240029,
+      "daily": 24764.88,
       "byVendor": {
         "Allan": 175718.68,
-        "Fabiola": 0.0
+        "Fabiola": 591992.67
       },
-      "topValueProduct": "RESORTE C. TOYOTA HILUX REVO 3H + 2 AUX (1 RB-660 + 2 SP-1601)",
-      "topValueTotal": 27726.95,
-      "topUnitsProduct": "TORNILLO CENTRO 3/8 X 4",
-      "topUnitsQty": 232
+      "topValueProduct": "ELECTRODO 7018 1/8  (X LIBRA)",
+      "topValueTotal": 95294.0,
+      "topUnitsProduct": "CLAVO ACERADO TIPO Cc27 CON ROLDANA ( SIN FULMINANTE )",
+      "topUnitsQty": 70000
     },
     {
       "month": "Agosto 2025",
-      "total": 219594.46,
-      "units": 1486,
-      "daily": 7083.69,
+      "total": 300299.4,
+      "units": 32420,
+      "daily": 9687.08,
       "byVendor": {
         "Allan": 219594.46,
-        "Fabiola": 0.0
+        "Fabiola": 80704.94
       },
       "topValueProduct": "RESORTE C. TOYOTA HILUX REVO 3H + 2 AUX (1 RB-660 + 2 SP-1601)",
       "topValueTotal": 103623.39,
-      "topUnitsProduct": "BUSHING PLASTICO HU-963 (18046) AMBAR HILUX-ISUZU",
-      "topUnitsQty": 230
+      "topUnitsProduct": "TORNILLO POLSER P/BROCA 1/4 X 4",
+      "topUnitsQty": 3000
     },
     {
       "month": "Septiembre 2025",
-      "total": 154782.5,
-      "units": 1384,
-      "daily": 5159.42,
+      "total": 383281.32,
+      "units": 39235,
+      "daily": 12776.04,
       "byVendor": {
         "Allan": 154163.4,
-        "Fabiola": 619.1
+        "Fabiola": 229117.92
       },
-      "topValueProduct": "RESORTE C. TOYOTA HILUX REVO 3H + 2 AUX (1 RB-660 + 2 SP-1601)",
-      "topValueTotal": 11700.0,
-      "topUnitsProduct": "BUSHING PLASTICO HU-963 (18046) AMBAR HILUX-ISUZU",
-      "topUnitsQty": 122
+      "topValueProduct": "PERNO S/MUESTRA",
+      "topValueTotal": 139289.16,
+      "topUnitsProduct": "TORNILLO HEX. A325 1/2 X 1",
+      "topUnitsQty": 6020
     },
     {
       "month": "Octubre 2025",
-      "total": 208960.9,
-      "units": 4549,
-      "daily": 6740.67,
+      "total": 303203.25,
+      "units": 48242,
+      "daily": 9780.75,
       "byVendor": {
         "Allan": 208960.9,
-        "Fabiola": 0.0
+        "Fabiola": 94242.35
       },
-      "topValueProduct": "TOYOTA HILUX 90 4WD TRA 2a C/J",
-      "topValueTotal": 7033.66,
-      "topUnitsProduct": "ROLDANA DE 1/2 P/LAÑA (ESPECIAL)",
-      "topUnitsQty": 812
+      "topValueProduct": "PERNO S/MUESTRA",
+      "topValueTotal": 65972.15,
+      "topUnitsProduct": "TORNILLO LAMINA ACERO INOX 8 X 1/2",
+      "topUnitsQty": 5000
     },
     {
       "month": "Noviembre 2025",
-      "total": 124759.39,
-      "units": 2644,
-      "daily": 4158.65,
+      "total": 225075.2,
+      "units": 33545,
+      "daily": 7502.51,
       "byVendor": {
         "Allan": 124759.39,
-        "Fabiola": 0.0
+        "Fabiola": 100315.81
       },
       "topValueProduct": "PERNO S/MUESTRA",
-      "topValueTotal": 9427.78,
-      "topUnitsProduct": "TUERCA HEX. A325 1.1/4",
-      "topUnitsQty": 396
+      "topValueTotal": 61060.2,
+      "topUnitsProduct": "TORNILLO POLSER P/BROCA 1/4 X 1.1/2",
+      "topUnitsQty": 4100
     },
     {
       "month": "Diciembre 2025",
-      "total": 141900.55,
-      "units": 2968,
-      "daily": 4577.44,
+      "total": 329136.48,
+      "units": 25586,
+      "daily": 10617.31,
       "byVendor": {
         "Allan": 140408.84,
-        "Fabiola": 1491.71
+        "Fabiola": 188727.64
       },
-      "topValueProduct": "RESORTE C. TOYOTA HILUX REVO 3H + 2 AUX (1 RB-660 + 2 SP-1601)",
-      "topValueTotal": 7800.0,
-      "topUnitsProduct": "TUERCA HEX. A325 1/2",
-      "topUnitsQty": 498
+      "topValueProduct": "PERNO S/MUESTRA",
+      "topValueTotal": 80273.46,
+      "topUnitsProduct": "PERNO S/MUESTRA",
+      "topUnitsQty": 1332
     },
     {
       "month": "Enero 2026",
-      "total": 209513.68,
-      "units": 1834,
-      "daily": 6758.51,
+      "total": 348112.35,
+      "units": 37935,
+      "daily": 11229.43,
       "byVendor": {
         "Allan": 206057.68,
-        "Fabiola": 3456.0
+        "Fabiola": 142054.67
       },
       "topValueProduct": "PERNO S/MUESTRA",
-      "topValueTotal": 5448.8,
-      "topUnitsProduct": "TORNILLO CENTRO 3/8 X 4",
-      "topUnitsQty": 132
+      "topValueTotal": 84369.5,
+      "topUnitsProduct": "ROLDANA F436 5/8",
+      "topUnitsQty": 5262
     },
     {
       "month": "Febrero 2026",
-      "total": 190779.19,
-      "units": 1768,
-      "daily": 6813.54,
+      "total": 331470.07,
+      "units": 129256,
+      "daily": 11838.22,
       "byVendor": {
         "Allan": 190779.19,
-        "Fabiola": 0.0
+        "Fabiola": 140690.88
       },
-      "topValueProduct": "NEWAY TS-5600 1a 31X31 5X1 C/CHICHE AGU PUNTA",
-      "topValueTotal": 28500.0,
-      "topUnitsProduct": "BUSHING PLASTICO HU-963 (18046) AMBAR HILUX-ISUZU",
-      "topUnitsQty": 200
+      "topValueProduct": "PERNO S/MUESTRA",
+      "topValueTotal": 44242.56,
+      "topUnitsProduct": "TORNILLO LAMINA C/TRUS P/BROCA 8 X 3/4",
+      "topUnitsQty": 30000
     },
     {
       "month": "Marzo 2026",
-      "total": 226582.37,
-      "units": 3480,
-      "daily": 7309.11,
+      "total": 391306.45,
+      "units": 34417,
+      "daily": 12622.79,
       "byVendor": {
         "Allan": 226582.37,
-        "Fabiola": 0.0
+        "Fabiola": 164724.08
       },
-      "topValueProduct": "LANA CUADRADA 1 1/8 X 5 1/8 X 15 1/2  CON TUERCA",
-      "topValueTotal": 31460.0,
-      "topUnitsProduct": "TUERCA DE RUEDA 5226-1 5 CROMADA ALTA",
-      "topUnitsQty": 400
+      "topValueProduct": "PERNO S/MUESTRA",
+      "topValueTotal": 79835.14,
+      "topUnitsProduct": "PERNO S/MUESTRA",
+      "topUnitsQty": 2504
     },
     {
       "month": "Abril 2026",
-      "total": 202919.21,
-      "units": 1356,
-      "daily": 6763.97,
+      "total": 313013.21,
+      "units": 35632,
+      "daily": 10433.77,
       "byVendor": {
         "Allan": 202919.21,
-        "Fabiola": 0.0
+        "Fabiola": 110094.0
       },
-      "topValueProduct": "NEWAY TRA-3224-01",
-      "topValueTotal": 28000.0,
-      "topUnitsProduct": "TORNILLO CENTRO 3/8 X 4",
-      "topUnitsQty": 194
+      "topValueProduct": "PERNO S/MUESTRA",
+      "topValueTotal": 41687.11,
+      "topUnitsProduct": "TUERCA  HEX RO2 5/8",
+      "topUnitsQty": 2400
     },
     {
       "month": "Mayo 2026",
-      "total": 209673.77,
-      "units": 1610,
-      "daily": 6763.67,
+      "total": 357655.06,
+      "units": 22633,
+      "daily": 11537.26,
       "byVendor": {
         "Allan": 207562.18,
-        "Fabiola": 2111.59
+        "Fabiola": 150092.88
       },
-      "topValueProduct": "NEWAY TS-5600 2a 30 5X30 5 5X1 C/CHICHE",
-      "topValueTotal": 22500.0,
-      "topUnitsProduct": "ROLDANA 5/8",
-      "topUnitsQty": 200
+      "topValueProduct": "PERNO S/MUESTRA",
+      "topValueTotal": 82021.14,
+      "topUnitsProduct": "TUERCA HEX. A325 3/4",
+      "topUnitsQty": 1620
     },
     {
       "month": "Junio 2026",
-      "total": 130027.13,
-      "units": 2511,
-      "daily": 4334.24,
+      "total": 318392.62,
+      "units": 38813,
+      "daily": 10613.09,
       "byVendor": {
         "Allan": 130027.13,
-        "Fabiola": 0.0
+        "Fabiola": 188365.49
       },
       "topValueProduct": "PERNO S/MUESTRA",
-      "topValueTotal": 9982.0,
-      "topUnitsProduct": "PERNO S/MUESTRA",
-      "topUnitsQty": 338
+      "topValueTotal": 140485.56,
+      "topUnitsProduct": "TUERCA HEX. A325 5/8",
+      "topUnitsQty": 8607
     }
   ],
-  "bestMonth": "Marzo 2026",
-  "bestTotal": 226582.37,
+  "bestMonth": "Mayo 2025",
+  "bestTotal": 1090269.23,
   "periodLabel": "Mayo 2025 – Junio 2026"
 }
