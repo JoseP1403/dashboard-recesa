@@ -48,7 +48,7 @@
     313013.21,
     357655.06,
     429918.1,
-    135447.39
+    150191.82
   ],
   "units": [
     182456,
@@ -65,7 +65,7 @@
     35632,
     22633,
     46097,
-    3890
+    4636
   ],
   "vendedores": [
     "Allan",
@@ -104,23 +104,23 @@
       110094.0,
       150092.88,
       236420.64,
-      45019.15
+      59763.58
     ]
   },
   "vendedorSummary": {
     "Allan": {
       "total": 2658739.6,
       "units": 34236,
-      "pct": 44.3,
+      "pct": 44.2,
       "topCategory": "HOJAS",
       "avgPrice": 266.23
     },
     "Fabiola": {
-      "total": 3338518.93,
-      "units": 897349,
-      "pct": 55.7,
+      "total": 3353263.36,
+      "units": 898095,
+      "pct": 55.8,
       "topCategory": "TORNILLO CENTRO",
-      "avgPrice": 25.57
+      "avgPrice": 25.66
     }
   },
   "vendedorCategories": {
@@ -164,13 +164,13 @@
     "Fabiola": [
       {
         "name": "TORNILLO CENTRO",
-        "total": 1581707.49,
-        "units": 745879
+        "total": 1582523.13,
+        "units": 746219
       },
       {
         "name": "PERNO ESTRUCTURAL",
-        "total": 1396779.06,
-        "units": 27460
+        "total": 1407869.74,
+        "units": 27836
       },
       {
         "name": "TORNILLERIA Y FERRETERIA",
@@ -179,8 +179,8 @@
       },
       {
         "name": "LAÑA",
-        "total": 23344.6,
-        "units": 210
+        "total": 26182.71,
+        "units": 240
       },
       {
         "name": "HOJAS",
@@ -194,15 +194,15 @@
       }
     ]
   },
-  "grandTotal": 5997258.53,
-  "grandUnits": 931584,
-  "avgPrice": 6.44,
+  "grandTotal": 6012002.96,
+  "grandUnits": 932330,
+  "avgPrice": 6.45,
   "topCategory": "TORNILLO CENTRO",
-  "topCategoryUnits": 771974,
+  "topCategoryUnits": 772314,
   "products": [
     {
       "name": "PERNO S/MUESTRA",
-      "val": 1447086.56
+      "val": 1458177.24
     },
     {
       "name": "TOR. HEX. A325 3/4 X 2.1/2",
@@ -210,7 +210,7 @@
     },
     {
       "name": "TUERCA HEX. A325 3/4",
-      "val": 175051.06
+      "val": 175684.02
     },
     {
       "name": "RESORTE C. TOYOTA HILUX REVO 3H + 2 AUX (1 RB-660 + 2 SP-1601)",
@@ -432,17 +432,17 @@
     },
     {
       "month": "Julio 2026",
-      "total": 135447.39,
-      "units": 3890,
-      "daily": 4369.27,
+      "total": 150191.82,
+      "units": 4636,
+      "daily": 4844.9,
       "byVendor": {
         "Allan": 90428.24,
-        "Fabiola": 45019.15
+        "Fabiola": 59763.58
       },
       "topValueProduct": "PERNO S/MUESTRA",
-      "topValueTotal": 40096.72,
+      "topValueTotal": 51187.4,
       "topUnitsProduct": "PERNO S/MUESTRA",
-      "topUnitsQty": 985
+      "topUnitsQty": 1361
     }
   ],
   "bestMonth": "Mayo 2025",
