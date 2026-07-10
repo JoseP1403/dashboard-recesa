@@ -34,38 +34,38 @@
     "Julio 2026"
   ],
   "totals": [
-    1152905.71,
-    331866.68,
-    774272.11,
-    452986.48,
-    376521.54,
-    276321.24,
-    294915.35,
-    360219.34,
-    604065.83,
-    398086.97,
-    401711.8,
-    307629.49,
-    469890.32,
-    547624.51,
-    95613.19
+    1090269.23,
+    291359.67,
+    767711.35,
+    300299.4,
+    383281.32,
+    303203.25,
+    225075.2,
+    329136.48,
+    348112.35,
+    331470.07,
+    391306.45,
+    313013.21,
+    357655.06,
+    429918.1,
+    159133.32
   ],
   "units": [
-    185089,
-    20629,
-    240473,
-    36420,
-    40125,
-    46714,
-    34023,
-    26303,
-    41059,
-    130052,
-    33436,
-    37646,
-    24884,
-    46086,
-    3543
+    182456,
+    20211,
+    240029,
+    32420,
+    39235,
+    48242,
+    33545,
+    25586,
+    37935,
+    129256,
+    34417,
+    35632,
+    22633,
+    46097,
+    4964
   ],
   "vendedores": [
     "Allan",
@@ -73,21 +73,21 @@
   ],
   "vendedorSeries": {
     "Allan": [
-      197436.52,
-      223014.57,
-      182279.44,
-      372281.54,
-      147403.62,
-      182078.89,
-      194599.54,
-      171491.7,
-      462011.16,
-      257396.09,
-      236987.72,
-      197535.49,
-      319797.44,
-      311203.87,
-      33926.11
+      134800.04,
+      182507.56,
+      175718.68,
+      219594.46,
+      154163.4,
+      208960.9,
+      124759.39,
+      140408.84,
+      206057.68,
+      190779.19,
+      226582.37,
+      202919.21,
+      207562.18,
+      193497.46,
+      97446.24
     ],
     "Fabiola": [
       955469.19,
@@ -109,16 +109,16 @@
   },
   "vendedorSummary": {
     "Allan": {
-      "total": 3489443.7,
-      "units": 48173,
-      "pct": 51.0,
-      "topCategory": "TORNILLO CENTRO",
-      "avgPrice": 376.77
+      "total": 2665757.6,
+      "units": 34350,
+      "pct": 44.3,
+      "topCategory": "HOJAS",
+      "avgPrice": 265.01
     },
     "Fabiola": {
       "total": 3355186.86,
       "units": 898309,
-      "pct": 49.0,
+      "pct": 55.7,
       "topCategory": "TORNILLO CENTRO",
       "avgPrice": 25.64
     }
@@ -126,44 +126,39 @@
   "vendedorCategories": {
     "Allan": [
       {
-        "name": "TORNILLO CENTRO",
-        "total": 2367460.18,
-        "units": 44557
-      },
-      {
         "name": "HOJAS",
-        "total": 595536.24,
-        "units": 1012
+        "total": 1480503.52,
+        "units": 4232
       },
       {
-        "name": "PERNO",
-        "total": 154445.92,
-        "units": 1220
+        "name": "TORNILLO CENTRO",
+        "total": 466079.45,
+        "units": 26180
       },
       {
         "name": "RESORTAJE",
-        "total": 152223.76,
-        "units": 43
+        "total": 376244.65,
+        "units": 191
       },
       {
         "name": "LAÑA",
-        "total": 135735.27,
-        "units": 1152
-      },
-      {
-        "name": "CUCHILLA",
-        "total": 57897.02,
-        "units": 85
+        "total": 227191.49,
+        "units": 2607
       },
       {
         "name": "PERNO ESTRUCTURAL",
-        "total": 25355.31,
-        "units": 100
+        "total": 66879.31,
+        "units": 809
+      },
+      {
+        "name": "PERNO",
+        "total": 48252.02,
+        "units": 328
       },
       {
         "name": "BALANCIN",
-        "total": 790.0,
-        "units": 4
+        "total": 607.16,
+        "units": 2
       }
     ],
     "Fabiola": [
@@ -199,15 +194,15 @@
       }
     ]
   },
-  "grandTotal": 6844630.56,
-  "grandUnits": 946482,
-  "avgPrice": 7.23,
+  "grandTotal": 6020944.46,
+  "grandUnits": 932658,
+  "avgPrice": 6.46,
   "topCategory": "TORNILLO CENTRO",
-  "topCategoryUnits": 790974,
+  "topCategoryUnits": 772598,
   "products": [
     {
       "name": "PERNO S/MUESTRA",
-      "val": 1433087.21
+      "val": 1459283.8
     },
     {
       "name": "TOR. HEX. A325 3/4 X 2.1/2",
@@ -215,37 +210,37 @@
     },
     {
       "name": "TUERCA HEX. A325 3/4",
-      "val": 175382.26
+      "val": 175742.9
     },
     {
-      "name": "MANO DE OBRA BYRON PORTALES",
-      "val": 148828.0
+      "name": "RESORTE C. TOYOTA HILUX REVO 3H + 2 AUX (1 RB-660 + 2 SP-1601)",
+      "val": 160894.64
     },
     {
-      "name": "BUSHING DE RESORTE ISUZU NPR (8-94118-588-1)",
-      "val": 130692.29
+      "name": "ELECTRODO 7018 1/8  (X LIBRA)",
+      "val": 95294.0
     },
     {
-      "name": "CARGADOR P/SUSPENSION HENDRICKSON (ACORDEON GRANDE )",
-      "val": 122772.0
+      "name": "ELECTRODO 6013 3/32\" (LIBRA)",
+      "val": 73356.8
     },
     {
-      "name": "BUSHING HEN. 750332 (HDK34013-088L) LATERAL",
-      "val": 121683.12
+      "name": "TUERCA HEX. A325 7/8",
+      "val": 65810.75
     },
     {
-      "name": "BUJE CENTRAL DE SUSPENSION CHALMERS",
-      "val": 113820.8
+      "name": "TOYOTA HILUX 90 4WD TRA 1a C/J",
+      "val": 63282.11
     }
   ],
   "details": [
     {
       "month": "Mayo 2025",
-      "total": 1152905.71,
-      "units": 185089,
-      "daily": 37190.51,
+      "total": 1090269.23,
+      "units": 182456,
+      "daily": 35169.98,
       "byVendor": {
-        "Allan": 197436.52,
+        "Allan": 134800.04,
         "Fabiola": 955469.19
       },
       "topValueProduct": "TOR. HEX. A325 3/4 X 2.1/2",
@@ -255,25 +250,25 @@
     },
     {
       "month": "Junio 2025",
-      "total": 331866.68,
-      "units": 20629,
-      "daily": 11062.22,
+      "total": 291359.67,
+      "units": 20211,
+      "daily": 9711.99,
       "byVendor": {
-        "Allan": 223014.57,
+        "Allan": 182507.56,
         "Fabiola": 108852.11
       },
       "topValueProduct": "PERNO S/MUESTRA",
-      "topValueTotal": 55744.56,
+      "topValueTotal": 55535.36,
       "topUnitsProduct": "TORNILLO LAMINA ACERO INOX 8 X 1/2",
       "topUnitsQty": 5000
     },
     {
       "month": "Julio 2025",
-      "total": 774272.11,
-      "units": 240473,
-      "daily": 24976.52,
+      "total": 767711.35,
+      "units": 240029,
+      "daily": 24764.88,
       "byVendor": {
-        "Allan": 182279.44,
+        "Allan": 175718.68,
         "Fabiola": 591992.67
       },
       "topValueProduct": "ELECTRODO 7018 1/8  (X LIBRA)",
@@ -283,123 +278,123 @@
     },
     {
       "month": "Agosto 2025",
-      "total": 452986.48,
-      "units": 36420,
-      "daily": 14612.47,
+      "total": 300299.4,
+      "units": 32420,
+      "daily": 9687.08,
       "byVendor": {
-        "Allan": 372281.54,
+        "Allan": 219594.46,
         "Fabiola": 80704.94
       },
-      "topValueProduct": "PERNO S/MUESTRA",
-      "topValueTotal": 52326.2,
+      "topValueProduct": "RESORTE C. TOYOTA HILUX REVO 3H + 2 AUX (1 RB-660 + 2 SP-1601)",
+      "topValueTotal": 103623.39,
       "topUnitsProduct": "TORNILLO POLSER P/BROCA 1/4 X 4",
       "topUnitsQty": 3000
     },
     {
       "month": "Septiembre 2025",
-      "total": 376521.54,
-      "units": 40125,
-      "daily": 12550.72,
+      "total": 383281.32,
+      "units": 39235,
+      "daily": 12776.04,
       "byVendor": {
-        "Allan": 147403.62,
+        "Allan": 154163.4,
         "Fabiola": 229117.92
       },
       "topValueProduct": "PERNO S/MUESTRA",
-      "topValueTotal": 139379.16,
+      "topValueTotal": 139289.16,
       "topUnitsProduct": "TORNILLO HEX. A325 1/2 X 1",
       "topUnitsQty": 6020
     },
     {
       "month": "Octubre 2025",
-      "total": 276321.24,
-      "units": 46714,
-      "daily": 8913.59,
+      "total": 303203.25,
+      "units": 48242,
+      "daily": 9780.75,
       "byVendor": {
-        "Allan": 182078.89,
+        "Allan": 208960.9,
         "Fabiola": 94242.35
       },
       "topValueProduct": "PERNO S/MUESTRA",
-      "topValueTotal": 61581.35,
+      "topValueTotal": 65972.15,
       "topUnitsProduct": "TORNILLO LAMINA ACERO INOX 8 X 1/2",
       "topUnitsQty": 5000
     },
     {
       "month": "Noviembre 2025",
-      "total": 294915.35,
-      "units": 34023,
-      "daily": 9830.51,
+      "total": 225075.2,
+      "units": 33545,
+      "daily": 7502.51,
       "byVendor": {
-        "Allan": 194599.54,
+        "Allan": 124759.39,
         "Fabiola": 100315.81
       },
       "topValueProduct": "PERNO S/MUESTRA",
-      "topValueTotal": 52352.42,
+      "topValueTotal": 61060.2,
       "topUnitsProduct": "TORNILLO POLSER P/BROCA 1/4 X 1.1/2",
       "topUnitsQty": 4100
     },
     {
       "month": "Diciembre 2025",
-      "total": 360219.34,
-      "units": 26303,
-      "daily": 11619.98,
+      "total": 329136.48,
+      "units": 25586,
+      "daily": 10617.31,
       "byVendor": {
-        "Allan": 171491.7,
+        "Allan": 140408.84,
         "Fabiola": 188727.64
       },
       "topValueProduct": "PERNO S/MUESTRA",
-      "topValueTotal": 79613.46,
-      "topUnitsProduct": "KILOMETRO DE IDA / VUELTA",
-      "topUnitsQty": 2440
+      "topValueTotal": 80273.46,
+      "topUnitsProduct": "PERNO S/MUESTRA",
+      "topUnitsQty": 1332
     },
     {
       "month": "Enero 2026",
-      "total": 604065.83,
-      "units": 41059,
-      "daily": 19485.99,
+      "total": 348112.35,
+      "units": 37935,
+      "daily": 11229.43,
       "byVendor": {
-        "Allan": 462011.16,
+        "Allan": 206057.68,
         "Fabiola": 142054.67
       },
       "topValueProduct": "PERNO S/MUESTRA",
-      "topValueTotal": 88582.2,
+      "topValueTotal": 84369.5,
       "topUnitsProduct": "ROLDANA F436 5/8",
       "topUnitsQty": 5262
     },
     {
       "month": "Febrero 2026",
-      "total": 398086.97,
-      "units": 130052,
-      "daily": 14217.39,
+      "total": 331470.07,
+      "units": 129256,
+      "daily": 11838.22,
       "byVendor": {
-        "Allan": 257396.09,
+        "Allan": 190779.19,
         "Fabiola": 140690.88
       },
       "topValueProduct": "PERNO S/MUESTRA",
-      "topValueTotal": 44802.56,
-      "topUnitsProduct": "TORNILLO T/YESO R.O. 8 X 1",
+      "topValueTotal": 44242.56,
+      "topUnitsProduct": "TORNILLO LAMINA C/TRUS P/BROCA 8 X 3/4",
       "topUnitsQty": 30000
     },
     {
       "month": "Marzo 2026",
-      "total": 401711.8,
-      "units": 33436,
-      "daily": 12958.45,
+      "total": 391306.45,
+      "units": 34417,
+      "daily": 12622.79,
       "byVendor": {
-        "Allan": 236987.72,
+        "Allan": 226582.37,
         "Fabiola": 164724.08
       },
       "topValueProduct": "PERNO S/MUESTRA",
-      "topValueTotal": 83134.23,
+      "topValueTotal": 79835.14,
       "topUnitsProduct": "PERNO S/MUESTRA",
-      "topUnitsQty": 2502
+      "topUnitsQty": 2504
     },
     {
       "month": "Abril 2026",
-      "total": 307629.49,
-      "units": 37646,
-      "daily": 10254.32,
+      "total": 313013.21,
+      "units": 35632,
+      "daily": 10433.77,
       "byVendor": {
-        "Allan": 197535.49,
+        "Allan": 202919.21,
         "Fabiola": 110094.0
       },
       "topValueProduct": "PERNO S/MUESTRA",
@@ -409,39 +404,39 @@
     },
     {
       "month": "Mayo 2026",
-      "total": 469890.32,
-      "units": 24884,
-      "daily": 15157.75,
+      "total": 357655.06,
+      "units": 22633,
+      "daily": 11537.26,
       "byVendor": {
-        "Allan": 319797.44,
+        "Allan": 207562.18,
         "Fabiola": 150092.88
       },
       "topValueProduct": "PERNO S/MUESTRA",
-      "topValueTotal": 77237.14,
-      "topUnitsProduct": "KILOMETRO DE IDA / VUELTA",
-      "topUnitsQty": 1723
+      "topValueTotal": 82021.14,
+      "topUnitsProduct": "TUERCA HEX. A325 3/4",
+      "topUnitsQty": 1620
     },
     {
       "month": "Junio 2026",
-      "total": 547624.51,
-      "units": 46086,
-      "daily": 18254.15,
+      "total": 429918.1,
+      "units": 46097,
+      "daily": 14330.6,
       "byVendor": {
-        "Allan": 311203.87,
+        "Allan": 193497.46,
         "Fabiola": 236420.64
       },
       "topValueProduct": "PERNO S/MUESTRA",
-      "topValueTotal": 159434.8,
+      "topValueTotal": 181666.8,
       "topUnitsProduct": "TUERCA HEX. A325 5/8",
-      "topUnitsQty": 8446
+      "topUnitsQty": 8620
     },
     {
       "month": "Julio 2026",
-      "total": 95613.19,
-      "units": 3543,
-      "daily": 3084.3,
+      "total": 159133.32,
+      "units": 4964,
+      "daily": 5133.33,
       "byVendor": {
-        "Allan": 33926.11,
+        "Allan": 97446.24,
         "Fabiola": 61687.08
       },
       "topValueProduct": "PERNO S/MUESTRA",
@@ -451,6 +446,6 @@
     }
   ],
   "bestMonth": "Mayo 2025",
-  "bestTotal": 1152905.71,
+  "bestTotal": 1090269.23,
   "periodLabel": "Mayo 2025 – Julio 2026"
 }
