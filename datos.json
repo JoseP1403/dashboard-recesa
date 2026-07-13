@@ -48,7 +48,7 @@
     313013.21,
     357655.06,
     429918.1,
-    159133.32
+    190202.13
   ],
   "units": [
     182456,
@@ -65,7 +65,7 @@
     35632,
     22633,
     46097,
-    4964
+    7089
   ],
   "vendedores": [
     "Allan",
@@ -87,7 +87,7 @@
       202919.21,
       207562.18,
       193497.46,
-      97446.24
+      104060.25
     ],
     "Fabiola": [
       955469.19,
@@ -104,31 +104,31 @@
       110094.0,
       150092.88,
       236420.64,
-      61687.08
+      86141.88
     ]
   },
   "vendedorSummary": {
     "Allan": {
-      "total": 2665757.6,
-      "units": 34350,
-      "pct": 44.3,
+      "total": 2672371.61,
+      "units": 34376,
+      "pct": 44.2,
       "topCategory": "HOJAS",
-      "avgPrice": 265.01
+      "avgPrice": 265.11
     },
     "Fabiola": {
-      "total": 3355186.86,
-      "units": 898309,
-      "pct": 55.7,
+      "total": 3379641.66,
+      "units": 900407,
+      "pct": 55.8,
       "topCategory": "TORNILLO CENTRO",
-      "avgPrice": 25.64
+      "avgPrice": 25.61
     }
   },
   "vendedorCategories": {
     "Allan": [
       {
         "name": "HOJAS",
-        "total": 1480503.52,
-        "units": 4232
+        "total": 1486699.42,
+        "units": 4255
       },
       {
         "name": "TORNILLO CENTRO",
@@ -142,8 +142,8 @@
       },
       {
         "name": "LAÑA",
-        "total": 227191.49,
-        "units": 2607
+        "total": 227609.6,
+        "units": 2611
       },
       {
         "name": "PERNO ESTRUCTURAL",
@@ -164,13 +164,13 @@
     "Fabiola": [
       {
         "name": "TORNILLO CENTRO",
-        "total": 1583340.07,
-        "units": 746417
+        "total": 1586401.67,
+        "units": 747905
       },
       {
         "name": "PERNO ESTRUCTURAL",
-        "total": 1408976.3,
-        "units": 27852
+        "total": 1430369.5,
+        "units": 28462
       },
       {
         "name": "TORNILLERIA Y FERRETERIA",
@@ -194,15 +194,15 @@
       }
     ]
   },
-  "grandTotal": 6020944.46,
-  "grandUnits": 932658,
-  "avgPrice": 6.46,
+  "grandTotal": 6052013.27,
+  "grandUnits": 934783,
+  "avgPrice": 6.47,
   "topCategory": "TORNILLO CENTRO",
-  "topCategoryUnits": 772598,
+  "topCategoryUnits": 774086,
   "products": [
     {
       "name": "PERNO S/MUESTRA",
-      "val": 1459283.8
+      "val": 1480677.0
     },
     {
       "name": "TOR. HEX. A325 3/4 X 2.1/2",
@@ -210,7 +210,7 @@
     },
     {
       "name": "TUERCA HEX. A325 3/4",
-      "val": 175742.9
+      "val": 176037.3
     },
     {
       "name": "RESORTE C. TOYOTA HILUX REVO 3H + 2 AUX (1 RB-660 + 2 SP-1601)",
@@ -230,7 +230,7 @@
     },
     {
       "name": "TOYOTA HILUX 90 4WD TRA 1a C/J",
-      "val": 63282.11
+      "val": 63536.38
     }
   ],
   "details": [
@@ -432,17 +432,17 @@
     },
     {
       "month": "Julio 2026",
-      "total": 159133.32,
-      "units": 4964,
-      "daily": 5133.33,
+      "total": 190202.13,
+      "units": 7089,
+      "daily": 6135.55,
       "byVendor": {
-        "Allan": 97446.24,
-        "Fabiola": 61687.08
+        "Allan": 104060.25,
+        "Fabiola": 86141.88
       },
       "topValueProduct": "PERNO S/MUESTRA",
-      "topValueTotal": 52293.96,
+      "topValueTotal": 73687.16,
       "topUnitsProduct": "PERNO S/MUESTRA",
-      "topUnitsQty": 1377
+      "topUnitsQty": 1987
     }
   ],
   "bestMonth": "Mayo 2025",
