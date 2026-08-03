@@ -14,7 +14,8 @@
     "Abr26",
     "May26",
     "Jun26",
-    "Jul26"
+    "Jul26",
+    "Ago26"
   ],
   "fullLabels": [
     "Mayo 2025",
@@ -31,7 +32,8 @@
     "Abril 2026",
     "Mayo 2026",
     "Junio 2026",
-    "Julio 2026"
+    "Julio 2026",
+    "Agosto 2026"
   ],
   "totals": [
     1090269.23,
@@ -48,7 +50,8 @@
     313013.21,
     357655.06,
     429918.1,
-    752949.33
+    755488.58,
+    3641.37
   ],
   "units": [
     182456,
@@ -65,7 +68,8 @@
     35632,
     22633,
     46097,
-    47222
+    47276,
+    44
   ],
   "vendedores": [
     "Allan",
@@ -87,7 +91,8 @@
       202919.21,
       207562.18,
       193497.46,
-      253333.76
+      255873.01,
+      3641.37
     ],
     "Fabiola": [
       955469.19,
@@ -104,16 +109,17 @@
       110094.0,
       150092.88,
       236420.64,
-      499615.57
+      499615.57,
+      0.0
     ]
   },
   "vendedorSummary": {
     "Allan": {
-      "total": 2821645.12,
-      "units": 36542,
+      "total": 2827825.74,
+      "units": 36640,
       "pct": 42.7,
       "topCategory": "HOJAS",
-      "avgPrice": 262.21
+      "avgPrice": 262.03
     },
     "Fabiola": {
       "total": 3793115.35,
@@ -132,18 +138,18 @@
       },
       {
         "name": "TORNILLO CENTRO",
-        "total": 501189.43,
-        "units": 27872
+        "total": 504044.71,
+        "units": 27958
       },
       {
         "name": "RESORTAJE",
-        "total": 386324.77,
-        "units": 199
+        "total": 388124.77,
+        "units": 203
       },
       {
         "name": "LAÑA",
-        "total": 236851.8,
-        "units": 2705
+        "total": 238377.14,
+        "units": 2713
       },
       {
         "name": "PERNO ESTRUCTURAL",
@@ -204,11 +210,11 @@
       }
     ]
   },
-  "grandTotal": 6614760.47,
-  "grandUnits": 974916,
-  "avgPrice": 6.78,
+  "grandTotal": 6620941.09,
+  "grandUnits": 975014,
+  "avgPrice": 6.79,
   "topCategory": "TORNILLO CENTRO",
-  "topCategoryUnits": 811230,
+  "topCategoryUnits": 811316,
   "products": [
     {
       "name": "PERNO S/MUESTRA",
@@ -442,20 +448,34 @@
     },
     {
       "month": "Julio 2026",
-      "total": 752949.33,
-      "units": 47222,
-      "daily": 24288.69,
+      "total": 755488.58,
+      "units": 47276,
+      "daily": 24370.6,
       "byVendor": {
-        "Allan": 253333.76,
+        "Allan": 255873.01,
         "Fabiola": 499615.57
       },
       "topValueProduct": "PERNO S/MUESTRA",
       "topValueTotal": 334310.76,
       "topUnitsProduct": "PERNO S/MUESTRA",
       "topUnitsQty": 4510
+    },
+    {
+      "month": "Agosto 2026",
+      "total": 3641.37,
+      "units": 44,
+      "daily": 117.46,
+      "byVendor": {
+        "Allan": 3641.37,
+        "Fabiola": 0.0
+      },
+      "topValueProduct": "ESPARRAGO 5143-R / BR50-019",
+      "topValueTotal": 2062.0,
+      "topUnitsProduct": "ESPARRAGO 5143-R / BR50-019",
+      "topUnitsQty": 20
     }
   ],
   "bestMonth": "Mayo 2025",
   "bestTotal": 1090269.23,
-  "periodLabel": "Mayo 2025 – Julio 2026"
+  "periodLabel": "Mayo 2025 – Agosto 2026"
 }
