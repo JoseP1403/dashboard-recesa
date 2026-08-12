@@ -51,7 +51,7 @@
     357655.06,
     429918.1,
     755488.58,
-    74484.25
+    127600.1
   ],
   "units": [
     182456,
@@ -69,7 +69,7 @@
     22633,
     46097,
     47276,
-    7653
+    10324
   ],
   "vendedores": [
     "Allan",
@@ -92,7 +92,7 @@
       207562.18,
       193497.46,
       255873.01,
-      46481.72
+      58884.51
     ],
     "Fabiola": [
       955469.19,
@@ -110,36 +110,36 @@
       150092.88,
       236420.64,
       499615.57,
-      28002.53
+      68715.59
     ]
   },
   "vendedorSummary": {
     "Allan": {
-      "total": 2870666.09,
-      "units": 36940,
-      "pct": 42.9,
+      "total": 2883068.88,
+      "units": 37064,
+      "pct": 42.7,
       "topCategory": "HOJAS",
-      "avgPrice": 263.69
+      "avgPrice": 263.37
     },
     "Fabiola": {
-      "total": 3821117.88,
-      "units": 945683,
-      "pct": 57.1,
+      "total": 3861830.94,
+      "units": 948230,
+      "pct": 57.3,
       "topCategory": "PERNO ESTRUCTURAL",
-      "avgPrice": 33.39
+      "avgPrice": 33.26
     }
   },
   "vendedorCategories": {
     "Allan": [
       {
         "name": "HOJAS",
-        "total": 1582546.64,
-        "units": 4585
+        "total": 1584721.86,
+        "units": 4595
       },
       {
         "name": "TORNILLO CENTRO",
-        "total": 517613.3,
-        "units": 28166
+        "total": 518004.16,
+        "units": 28244
       },
       {
         "name": "RESORTAJE",
@@ -148,8 +148,8 @@
       },
       {
         "name": "LAÑA",
-        "total": 252912.22,
-        "units": 2780
+        "total": 262748.93,
+        "units": 2816
       },
       {
         "name": "PERNO ESTRUCTURAL",
@@ -175,13 +175,13 @@
     "Fabiola": [
       {
         "name": "PERNO ESTRUCTURAL",
-        "total": 1703470.59,
-        "units": 31280
+        "total": 1741338.6,
+        "units": 32473
       },
       {
         "name": "TORNILLO CENTRO",
-        "total": 1689316.8,
-        "units": 790351
+        "total": 1692161.85,
+        "units": 791705
       },
       {
         "name": "TORNILLERIA Y FERRETERIA",
@@ -210,15 +210,15 @@
       }
     ]
   },
-  "grandTotal": 6691783.97,
-  "grandUnits": 982623,
-  "avgPrice": 6.81,
+  "grandTotal": 6744899.82,
+  "grandUnits": 985294,
+  "avgPrice": 6.85,
   "topCategory": "TORNILLO CENTRO",
-  "topCategoryUnits": 818516,
+  "topCategoryUnits": 819948,
   "products": [
     {
       "name": "PERNO S/MUESTRA",
-      "val": 1755980.09
+      "val": 1793848.1
     },
     {
       "name": "TOR. HEX. A325 3/4 X 2.1/2",
@@ -238,7 +238,7 @@
     },
     {
       "name": "TUERCA HEX. A325 1\"",
-      "val": 81803.17
+      "val": 82097.57
     },
     {
       "name": "ELECTRODO 6013 3/32\" (LIBRA)",
@@ -462,15 +462,15 @@
     },
     {
       "month": "Agosto 2026",
-      "total": 74484.25,
-      "units": 7653,
-      "daily": 2402.72,
+      "total": 127600.1,
+      "units": 10324,
+      "daily": 4116.13,
       "byVendor": {
-        "Allan": 46481.72,
-        "Fabiola": 28002.53
+        "Allan": 58884.51,
+        "Fabiola": 68715.59
       },
       "topValueProduct": "PERNO S/MUESTRA",
-      "topValueTotal": 14679.49,
+      "topValueTotal": 52547.5,
       "topUnitsProduct": "TUERCA  HEX RO2 5/8",
       "topUnitsQty": 2800
     }
