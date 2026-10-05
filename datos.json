@@ -57,7 +57,7 @@
     755488.58,
     348370.04,
     545992.87,
-    14677.18
+    41475.49
   ],
   "units": [
     182456,
@@ -77,7 +77,7 @@
     47276,
     420590,
     42577,
-    492
+    643
   ],
   "vendedores": [
     "Allan",
@@ -102,7 +102,7 @@
       255873.01,
       150123.46,
       234514.08,
-      9044.3
+      29414.91
     ],
     "Fabiola": [
       955469.19,
@@ -122,36 +122,36 @@
       499615.57,
       198246.58,
       311478.79,
-      5632.88
+      12060.58
     ]
   },
   "vendedorSummary": {
     "Allan": {
-      "total": 3217866.21,
-      "units": 40168,
-      "pct": 42.8,
+      "total": 3238236.82,
+      "units": 40284,
+      "pct": 42.9,
       "topCategory": "HOJAS",
-      "avgPrice": 266.27
+      "avgPrice": 267.11
     },
     "Fabiola": {
-      "total": 4308473.6,
-      "units": 1398462,
-      "pct": 57.2,
+      "total": 4314901.3,
+      "units": 1398496,
+      "pct": 57.1,
       "topCategory": "PERNO ESTRUCTURAL",
-      "avgPrice": 38.95
+      "avgPrice": 39.25
     }
   },
   "vendedorCategories": {
     "Allan": [
       {
         "name": "HOJAS",
-        "total": 1697163.94,
-        "units": 4905
+        "total": 1698640.92,
+        "units": 4907
       },
       {
         "name": "TORNILLO CENTRO",
-        "total": 618818.88,
-        "units": 30758
+        "total": 637253.51,
+        "units": 30870
       },
       {
         "name": "RESORTAJE",
@@ -170,8 +170,8 @@
       },
       {
         "name": "PERNO",
-        "total": 57581.89,
-        "units": 388
+        "total": 58040.89,
+        "units": 390
       },
       {
         "name": "BALANCIN",
@@ -192,8 +192,8 @@
       },
       {
         "name": "TORNILLO CENTRO",
-        "total": 1870692.73,
-        "units": 1239961
+        "total": 1877120.43,
+        "units": 1239995
       },
       {
         "name": "TORNILLERIA Y FERRETERIA",
@@ -222,11 +222,11 @@
       }
     ]
   },
-  "grandTotal": 7526339.81,
-  "grandUnits": 1438629,
-  "avgPrice": 5.23,
+  "grandTotal": 7553138.12,
+  "grandUnits": 1438780,
+  "avgPrice": 5.25,
   "topCategory": "TORNILLO CENTRO",
-  "topCategoryUnits": 1270718,
+  "topCategoryUnits": 1270866,
   "products": [
     {
       "name": "PERNO S/MUESTRA",
@@ -502,15 +502,15 @@
     },
     {
       "month": "Octubre 2026",
-      "total": 14677.18,
-      "units": 492,
-      "daily": 473.46,
+      "total": 41475.49,
+      "units": 643,
+      "daily": 1337.92,
       "byVendor": {
-        "Allan": 9044.3,
-        "Fabiola": 5632.88
+        "Allan": 29414.91,
+        "Fabiola": 12060.58
       },
-      "topValueProduct": "PERNO S/MUESTRA",
-      "topValueTotal": 5034.4,
+      "topValueProduct": "BUSHING HEN. 750332 (HDK34013-088L) LATERAL",
+      "topValueTotal": 7653.2,
       "topUnitsProduct": "TUERCA HEX  RF5 3/4",
       "topUnitsQty": 96
     }
