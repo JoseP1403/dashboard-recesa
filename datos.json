@@ -57,7 +57,7 @@
     755488.58,
     348370.04,
     545992.87,
-    41475.49
+    49234.05
   ],
   "units": [
     182456,
@@ -77,7 +77,7 @@
     47276,
     420590,
     42577,
-    643
+    727
   ],
   "vendedores": [
     "Allan",
@@ -102,7 +102,7 @@
       255873.01,
       150123.46,
       234514.08,
-      29414.91
+      37173.47
     ],
     "Fabiola": [
       955469.19,
@@ -127,11 +127,11 @@
   },
   "vendedorSummary": {
     "Allan": {
-      "total": 3238236.82,
-      "units": 40284,
+      "total": 3245995.38,
+      "units": 40368,
       "pct": 42.9,
       "topCategory": "HOJAS",
-      "avgPrice": 267.11
+      "avgPrice": 266.78
     },
     "Fabiola": {
       "total": 4314901.3,
@@ -145,13 +145,13 @@
     "Allan": [
       {
         "name": "HOJAS",
-        "total": 1698640.92,
-        "units": 4907
+        "total": 1701622.06,
+        "units": 4912
       },
       {
         "name": "TORNILLO CENTRO",
-        "total": 637253.51,
-        "units": 30870
+        "total": 638678.58,
+        "units": 30930
       },
       {
         "name": "RESORTAJE",
@@ -160,8 +160,8 @@
       },
       {
         "name": "LAÑA",
-        "total": 291030.13,
-        "units": 3035
+        "total": 294382.48,
+        "units": 3055
       },
       {
         "name": "PERNO ESTRUCTURAL",
@@ -222,11 +222,11 @@
       }
     ]
   },
-  "grandTotal": 7553138.12,
-  "grandUnits": 1438780,
+  "grandTotal": 7560896.68,
+  "grandUnits": 1438864,
   "avgPrice": 5.25,
   "topCategory": "TORNILLO CENTRO",
-  "topCategoryUnits": 1270866,
+  "topCategoryUnits": 1270924,
   "products": [
     {
       "name": "PERNO S/MUESTRA",
@@ -502,11 +502,11 @@
     },
     {
       "month": "Octubre 2026",
-      "total": 41475.49,
-      "units": 643,
-      "daily": 1337.92,
+      "total": 49234.05,
+      "units": 727,
+      "daily": 1588.2,
       "byVendor": {
-        "Allan": 29414.91,
+        "Allan": 37173.47,
         "Fabiola": 12060.58
       },
       "topValueProduct": "BUSHING HEN. 750332 (HDK34013-088L) LATERAL",
