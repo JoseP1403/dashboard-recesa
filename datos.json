@@ -57,7 +57,7 @@
     755488.58,
     348370.04,
     545992.87,
-    49234.05
+    94688.94
   ],
   "units": [
     182456,
@@ -77,7 +77,7 @@
     47276,
     420590,
     42577,
-    727
+    4777
   ],
   "vendedores": [
     "Allan",
@@ -102,7 +102,7 @@
       255873.01,
       150123.46,
       234514.08,
-      37173.47
+      56697.88
     ],
     "Fabiola": [
       955469.19,
@@ -122,36 +122,36 @@
       499615.57,
       198246.58,
       311478.79,
-      12060.58
+      37991.06
     ]
   },
   "vendedorSummary": {
     "Allan": {
-      "total": 3245995.38,
-      "units": 40368,
+      "total": 3265519.79,
+      "units": 40626,
       "pct": 42.9,
       "topCategory": "HOJAS",
-      "avgPrice": 266.78
+      "avgPrice": 266.51
     },
     "Fabiola": {
-      "total": 4314901.3,
-      "units": 1398496,
+      "total": 4340831.78,
+      "units": 1402289,
       "pct": 57.1,
       "topCategory": "PERNO ESTRUCTURAL",
-      "avgPrice": 39.25
+      "avgPrice": 39.6
     }
   },
   "vendedorCategories": {
     "Allan": [
       {
         "name": "HOJAS",
-        "total": 1701622.06,
-        "units": 4912
+        "total": 1712033.39,
+        "units": 4935
       },
       {
         "name": "TORNILLO CENTRO",
-        "total": 638678.58,
-        "units": 30930
+        "total": 643158.36,
+        "units": 31104
       },
       {
         "name": "RESORTAJE",
@@ -160,18 +160,18 @@
       },
       {
         "name": "LAÑA",
-        "total": 294382.48,
-        "units": 3055
+        "total": 295368.43,
+        "units": 3060
       },
       {
         "name": "PERNO ESTRUCTURAL",
-        "total": 70210.6,
-        "units": 839
+        "total": 73695.76,
+        "units": 893
       },
       {
         "name": "PERNO",
-        "total": 58040.89,
-        "units": 390
+        "total": 58203.08,
+        "units": 391
       },
       {
         "name": "BALANCIN",
@@ -187,13 +187,13 @@
     "Fabiola": [
       {
         "name": "PERNO ESTRUCTURAL",
-        "total": 1935444.58,
-        "units": 34366
+        "total": 1947573.02,
+        "units": 34454
       },
       {
         "name": "TORNILLO CENTRO",
-        "total": 1877120.43,
-        "units": 1239995
+        "total": 1890054.83,
+        "units": 1243699
       },
       {
         "name": "TORNILLERIA Y FERRETERIA",
@@ -212,8 +212,8 @@
       },
       {
         "name": "HOJAS",
-        "total": 11463.9,
-        "units": 91
+        "total": 12331.54,
+        "units": 92
       },
       {
         "name": "PERNO",
@@ -222,15 +222,15 @@
       }
     ]
   },
-  "grandTotal": 7560896.68,
-  "grandUnits": 1438864,
-  "avgPrice": 5.25,
+  "grandTotal": 7606351.57,
+  "grandUnits": 1442914,
+  "avgPrice": 5.27,
   "topCategory": "TORNILLO CENTRO",
-  "topCategoryUnits": 1270924,
+  "topCategoryUnits": 1274802,
   "products": [
     {
       "name": "PERNO S/MUESTRA",
-      "val": 1987954.08
+      "val": 2003567.68
     },
     {
       "name": "TOR. HEX. A325 3/4 X 2.1/2",
@@ -238,7 +238,7 @@
     },
     {
       "name": "TUERCA HEX. A325 3/4",
-      "val": 190521.78
+      "val": 191250.42
     },
     {
       "name": "RESORTE C. TOYOTA HILUX REVO 3H + 2 AUX (1 RB-660 + 2 SP-1601)",
@@ -254,7 +254,7 @@
     },
     {
       "name": "TUERCA HEX. A325 1\"",
-      "val": 88167.01
+      "val": 88387.81
     },
     {
       "name": "TOYOTA HILUX 90 4WD TRA 1a C/J",
@@ -502,17 +502,17 @@
     },
     {
       "month": "Octubre 2026",
-      "total": 49234.05,
-      "units": 727,
-      "daily": 1588.2,
+      "total": 94688.94,
+      "units": 4777,
+      "daily": 3054.48,
       "byVendor": {
-        "Allan": 37173.47,
-        "Fabiola": 12060.58
+        "Allan": 56697.88,
+        "Fabiola": 37991.06
       },
-      "topValueProduct": "BUSHING HEN. 750332 (HDK34013-088L) LATERAL",
-      "topValueTotal": 7653.2,
-      "topUnitsProduct": "TUERCA HEX  RF5 3/4",
-      "topUnitsQty": 96
+      "topValueProduct": "PERNO S/MUESTRA",
+      "topValueTotal": 20648.0,
+      "topUnitsProduct": "ROLDANA F436 5/8",
+      "topUnitsQty": 680
     }
   ],
   "bestMonth": "Mayo 2025",
