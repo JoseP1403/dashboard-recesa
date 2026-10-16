@@ -57,7 +57,7 @@
     755488.58,
     348370.04,
     545992.87,
-    162338.39
+    177342.29
   ],
   "units": [
     182456,
@@ -77,7 +77,7 @@
     47276,
     420590,
     42577,
-    21372
+    21689
   ],
   "vendedores": [
     "Allan",
@@ -102,7 +102,7 @@
       255873.01,
       150123.46,
       234514.08,
-      92417.25
+      104849.13
     ],
     "Fabiola": [
       955469.19,
@@ -122,46 +122,46 @@
       499615.57,
       198246.58,
       311478.79,
-      69921.14
+      72493.16
     ]
   },
   "vendedorSummary": {
     "Allan": {
-      "total": 3301239.16,
-      "units": 40716,
-      "pct": 43.0,
+      "total": 3313671.04,
+      "units": 40922,
+      "pct": 43.1,
       "topCategory": "HOJAS",
-      "avgPrice": 267.83
+      "avgPrice": 268.42
     },
     "Fabiola": {
-      "total": 4372761.86,
-      "units": 1418793,
-      "pct": 57.0,
+      "total": 4375333.88,
+      "units": 1418905,
+      "pct": 56.9,
       "topCategory": "PERNO ESTRUCTURAL",
-      "avgPrice": 39.69
+      "avgPrice": 39.66
     }
   },
   "vendedorCategories": {
     "Allan": [
       {
         "name": "HOJAS",
-        "total": 1719662.95,
-        "units": 4957
+        "total": 1722629.51,
+        "units": 4962
       },
       {
         "name": "TORNILLO CENTRO",
-        "total": 650024.47,
-        "units": 31160
+        "total": 653873.29,
+        "units": 31340
       },
       {
         "name": "RESORTAJE",
-        "total": 501872.09,
-        "units": 244
+        "total": 505022.09,
+        "units": 246
       },
       {
         "name": "LAÑA",
-        "total": 295929.83,
-        "units": 3062
+        "total": 298396.33,
+        "units": 3080
       },
       {
         "name": "PERNO ESTRUCTURAL",
@@ -192,8 +192,8 @@
       },
       {
         "name": "TORNILLO CENTRO",
-        "total": 1911162.65,
-        "units": 1260033
+        "total": 1913734.67,
+        "units": 1260145
       },
       {
         "name": "TORNILLERIA Y FERRETERIA",
@@ -222,11 +222,11 @@
       }
     ]
   },
-  "grandTotal": 7674001.02,
-  "grandUnits": 1459509,
-  "avgPrice": 5.26,
+  "grandTotal": 7689004.92,
+  "grandUnits": 1459826,
+  "avgPrice": 5.27,
   "topCategory": "TORNILLO CENTRO",
-  "topCategoryUnits": 1291194,
+  "topCategoryUnits": 1291486,
   "products": [
     {
       "name": "PERNO S/MUESTRA",
@@ -502,12 +502,12 @@
     },
     {
       "month": "Octubre 2026",
-      "total": 162338.39,
-      "units": 21372,
-      "daily": 5236.72,
+      "total": 177342.29,
+      "units": 21689,
+      "daily": 5720.72,
       "byVendor": {
-        "Allan": 92417.25,
-        "Fabiola": 69921.14
+        "Allan": 104849.13,
+        "Fabiola": 72493.16
       },
       "topValueProduct": "PERNO S/MUESTRA",
       "topValueTotal": 31470.26,
