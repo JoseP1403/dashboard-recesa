@@ -57,7 +57,7 @@
     755488.58,
     348370.04,
     545992.87,
-    293055.91
+    351669.98
   ],
   "units": [
     182456,
@@ -77,7 +77,7 @@
     47276,
     420590,
     42577,
-    33951
+    35814
   ],
   "vendedores": [
     "Allan",
@@ -102,7 +102,7 @@
       255873.01,
       150123.46,
       234514.08,
-      155129.35
+      188376.95
     ],
     "Fabiola": [
       955469.19,
@@ -122,46 +122,46 @@
       499615.57,
       198246.58,
       311478.79,
-      137926.56
+      163293.03
     ]
   },
   "vendedorSummary": {
     "Allan": {
-      "total": 3363951.26,
-      "units": 41138,
-      "pct": 43.1,
+      "total": 3397198.86,
+      "units": 41570,
+      "pct": 43.2,
       "topCategory": "HOJAS",
-      "avgPrice": 270.06
+      "avgPrice": 269.88
     },
     "Fabiola": {
-      "total": 4440767.28,
-      "units": 1430950,
-      "pct": 56.9,
+      "total": 4466133.75,
+      "units": 1432381,
+      "pct": 56.8,
       "topCategory": "PERNO ESTRUCTURAL",
-      "avgPrice": 39.59
+      "avgPrice": 39.4
     }
   },
   "vendedorCategories": {
     "Allan": [
       {
         "name": "HOJAS",
-        "total": 1728109.67,
-        "units": 4968
+        "total": 1745255.8,
+        "units": 5019
       },
       {
         "name": "TORNILLO CENTRO",
-        "total": 670705.13,
-        "units": 31518
+        "total": 675400.27,
+        "units": 31852
       },
       {
         "name": "RESORTAJE",
-        "total": 528622.09,
-        "units": 254
+        "total": 532722.09,
+        "units": 255
       },
       {
         "name": "LAÑA",
-        "total": 299824.55,
-        "units": 3094
+        "total": 305922.06,
+        "units": 3129
       },
       {
         "name": "PERNO ESTRUCTURAL",
@@ -170,8 +170,8 @@
       },
       {
         "name": "PERNO",
-        "total": 59523.08,
-        "units": 397
+        "total": 60731.9,
+        "units": 407
       },
       {
         "name": "BALANCIN",
@@ -187,13 +187,13 @@
     "Fabiola": [
       {
         "name": "PERNO ESTRUCTURAL",
-        "total": 2012269.12,
-        "units": 35294
+        "total": 2030205.2,
+        "units": 35600
       },
       {
         "name": "TORNILLO CENTRO",
-        "total": 1925294.23,
-        "units": 1271520
+        "total": 1932724.62,
+        "units": 1272645
       },
       {
         "name": "TORNILLERIA Y FERRETERIA",
@@ -222,15 +222,15 @@
       }
     ]
   },
-  "grandTotal": 7804718.54,
-  "grandUnits": 1472088,
-  "avgPrice": 5.3,
+  "grandTotal": 7863332.61,
+  "grandUnits": 1473951,
+  "avgPrice": 5.33,
   "topCategory": "TORNILLO CENTRO",
-  "topCategoryUnits": 1303038,
+  "topCategoryUnits": 1304498,
   "products": [
     {
       "name": "PERNO S/MUESTRA",
-      "val": 2068263.78
+      "val": 2086199.86
     },
     {
       "name": "TOR. HEX. A325 3/4 X 2.1/2",
@@ -238,7 +238,7 @@
     },
     {
       "name": "TUERCA HEX. A325 3/4",
-      "val": 195386.74
+      "val": 195482.42
     },
     {
       "name": "RESORTE C. TOYOTA HILUX REVO 3H + 2 AUX (1 RB-660 + 2 SP-1601)",
@@ -246,19 +246,19 @@
     },
     {
       "name": "RESORTE C TRA 10HN (3.1/2 X 5/8 X 22 X 22)",
-      "val": 102500.0
+      "val": 106600.0
     },
     {
       "name": "ELECTRODO 7018 1/8  (X LIBRA)",
       "val": 95294.0
     },
     {
-      "name": "HIERRO 1 X 4 X 8 (LAMINA)",
-      "val": 88900.0
+      "name": "TUERCA HEX. A325 1\"",
+      "val": 89944.99
     },
     {
-      "name": "TUERCA HEX. A325 1\"",
-      "val": 88387.81
+      "name": "HIERRO 1 X 4 X 8 (LAMINA)",
+      "val": 88900.0
     }
   ],
   "details": [
@@ -502,15 +502,15 @@
     },
     {
       "month": "Octubre 2026",
-      "total": 293055.91,
-      "units": 33951,
-      "daily": 9453.42,
+      "total": 351669.98,
+      "units": 35814,
+      "daily": 11344.19,
       "byVendor": {
-        "Allan": 155129.35,
-        "Fabiola": 137926.56
+        "Allan": 188376.95,
+        "Fabiola": 163293.03
       },
       "topValueProduct": "PERNO S/MUESTRA",
-      "topValueTotal": 85344.1,
+      "topValueTotal": 103280.18,
       "topUnitsProduct": "ROLDANA GALVANIZADA 5/16",
       "topUnitsQty": 6740
     }
